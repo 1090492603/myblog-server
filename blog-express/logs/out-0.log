@@ -1,0 +1,2415 @@
+2020-08-17 23:05:32: env =  production
+2020-08-17 23:05:32: 11111
+2020-08-17 23:05:32: server is run in port 8000
+2020-09-05 16:57:52: env =  production
+2020-09-05 16:57:52: 11111
+2020-09-05 16:57:52: server is run in port 8000
+2020-09-05 16:57:53: env =  production
+2020-09-05 16:57:53: 11111
+2020-09-05 16:57:53: server is run in port 8000
+2020-09-05 16:57:53: env =  production
+2020-09-05 16:57:53: 11111
+2020-09-05 16:57:53: server is run in port 8000
+2020-09-05 16:57:54: env =  production
+2020-09-05 16:57:54: 11111
+2020-09-05 16:57:54: server is run in port 8000
+2020-09-05 16:57:54: env =  production
+2020-09-05 16:57:54: 11111
+2020-09-05 16:57:54: server is run in port 8000
+2020-09-05 16:57:54: env =  production
+2020-09-05 16:57:54: 11111
+2020-09-05 16:57:54: server is run in port 8000
+2020-09-05 16:57:55: env =  production
+2020-09-05 16:57:55: 11111
+2020-09-05 16:57:55: server is run in port 8000
+2020-09-05 16:57:55: env =  production
+2020-09-05 16:57:55: 11111
+2020-09-05 16:57:55: server is run in port 8000
+2020-09-05 16:57:55: env =  production
+2020-09-05 16:57:56: 11111
+2020-09-05 16:57:56: server is run in port 8000
+2020-09-05 16:57:56: env =  production
+2020-09-05 16:57:56: 11111
+2020-09-05 16:57:56: server is run in port 8000
+2020-09-05 16:57:56: env =  production
+2020-09-05 16:57:57: 11111
+2020-09-05 16:57:57: server is run in port 8000
+2020-09-05 16:57:57: env =  production
+2020-09-05 16:57:57: 11111
+2020-09-05 16:57:57: server is run in port 8000
+2020-09-05 16:57:57: env =  production
+2020-09-05 16:57:57: 11111
+2020-09-05 16:57:57: server is run in port 8000
+2020-09-05 16:57:57: env =  production
+2020-09-05 16:57:58: 11111
+2020-09-05 16:57:58: server is run in port 8000
+2020-09-05 16:57:58: env =  production
+2020-09-05 16:57:58: 11111
+2020-09-05 16:57:58: server is run in port 8000
+2020-09-05 16:57:58: env =  production
+2020-09-05 16:57:58: 11111
+2020-09-05 16:57:58: server is run in port 8000
+2020-09-05 18:31:25: env =  production
+2020-09-05 18:31:25: 11111
+2020-09-05 18:31:25: server is run in port 8000
+2020-09-05 18:31:38: 更新一篇博客, ID:33, 内容:[object Object]
+2020-09-05 18:31:38: blog undata OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+2020-09-05 18:31:54: 更新一篇博客, ID:28, 内容:[object Object]
+2020-09-05 18:31:54: blog undata OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+2020-09-05 18:32:02: 更新一篇博客, ID:27, 内容:[object Object]
+2020-09-05 18:32:02: blog undata OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+2020-09-05 18:32:08:  * blog newData =  34
+2020-09-05 18:32:12: 更新一篇博客, ID:34, 内容:[object Object]
+2020-09-05 18:32:12: blog undata OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+2020-09-06 07:13:34: env =  production
+2020-09-06 07:13:35: 11111
+2020-09-06 07:13:35: server is run in port 8000
+2020-09-06 12:41:41: qq1090492603
+2020-09-06 12:41:52: qq1090492603
+2020-09-06 12:42:42: qq1090492603
+2020-09-06 12:42:59: qq1090492603
+2020-09-06 12:43:19: qq1090492603
+2020-09-06 13:10:41: Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-09-06 13:10:41: Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-09-06 13:10:42: Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-09-06 13:10:43: Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-09-06 13:10:45: Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-09-06 13:10:48: Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-09-06 13:10:52: Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-09-06 13:11:01: Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-09-06 13:11:15: Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-09-06 13:11:38: Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-09-06 13:12:19: Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-09-06 18:30:53: env =  production
+2020-09-06 18:30:53: 11111
+2020-09-06 18:30:53: server is run in port 8000
+2020-09-06 18:30:53: ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/home/wwwroot/ftptest/blog-express/node_modules/redis-parser/lib/parser.js:179:12)
+    at parseType (/home/wwwroot/ftptest/blog-express/node_modules/redis-parser/lib/parser.js:302:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+2020-09-06 19:11:22: env =  production
+2020-09-06 19:11:22: 11111
+2020-09-06 19:11:22: server is run in port 8000
+2020-09-06 19:11:22: Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-09-06 19:11:22: Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-09-06 19:11:23: Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-09-06 19:11:23: Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-09-06 19:11:24: Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-09-06 19:11:26: Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-09-06 19:11:29: Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-09-06 19:11:33: Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+}
+2020-09-06 19:16:39: env =  production
+2020-09-06 19:16:39: 11111
+2020-09-06 19:16:39: server is run in port 8000
+2020-09-06 19:16:39: ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/home/wwwroot/ftptest/blog-express/node_modules/redis-parser/lib/parser.js:179:12)
+    at parseType (/home/wwwroot/ftptest/blog-express/node_modules/redis-parser/lib/parser.js:302:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+2020-09-06 19:49:16: env =  production
+2020-09-06 19:49:16: 11111
+2020-09-06 19:49:16: server is run in port 8000
+2020-09-07 04:12:54: env =  production
+2020-09-07 04:12:54: 11111
+2020-09-07 04:12:54: server is run in port 8000
+2020-09-07 11:39:00:  * mysql err =  Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'where clause'
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getDtail (/home/wwwroot/ftptest/blog-express/controller/blog.js:24:12)
+    at /home/wwwroot/ftptest/blog-express/routes/blogs.js:41:18
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlMessage: "Unknown column 'undefined' in 'where clause'",
+  sqlState: '42S22',
+  index: 0,
+  sql: 'select * from blogs where 1=1 and id=undefined'
+}
+2020-09-07 18:21:44: qq1090492603
+2020-09-07 18:21:48: 更新一篇博客, ID:23, 内容:[object Object]
+2020-09-07 18:21:48: blog undata OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+2020-09-08 02:21:50: env =  production
+2020-09-08 02:21:50: 11111
+2020-09-08 02:21:50: server is run in port 8000
+2020-09-08 10:21:50: env =  production
+2020-09-08 10:21:50: 11111
+2020-09-08 10:21:50: server is run in port 8000
+2020-09-08 10:36:45: qq1090492603
+2020-09-08 13:06:14: env =  production
+2020-09-08 13:06:14: 11111
+2020-09-08 13:06:14: server is run in port 8000
+2020-09-08 13:06:53: env =  production
+2020-09-08 13:06:54: 11111
+2020-09-08 13:06:54: server is run in port 8000
+2020-09-08 13:08:27: qq1090492603
+2020-09-08 13:08:32: 更新一篇博客, ID:34, 内容:[object Object]
+2020-09-08 13:08:32: blog undata OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+2020-09-08 13:08:41: 更新一篇博客, ID:33, 内容:[object Object]
+2020-09-08 13:08:41: blog undata OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+2020-09-08 22:34:02: env =  production
+2020-09-08 22:34:02: 11111
+2020-09-08 22:34:02: server is run in port 8000
+2020-09-09 06:34:03: env =  production
+2020-09-09 06:34:03: 11111
+2020-09-09 06:34:03: server is run in port 8000
+2020-09-09 23:08:52: env =  production
+2020-09-09 23:08:52: 11111
+2020-09-09 23:08:52: server is run in port 8000
+2020-09-10 12:07:51: env =  production
+2020-09-10 12:07:51: 11111
+2020-09-10 12:07:51: server is run in port 8000
+2020-09-10 20:07:51: env =  production
+2020-09-10 20:07:52: 11111
+2020-09-10 20:07:52: server is run in port 8000
+2020-09-11 04:07:52: env =  production
+2020-09-11 04:07:52: 11111
+2020-09-11 04:07:52: server is run in port 8000
+2020-09-11 12:07:52: env =  production
+2020-09-11 12:07:52: 11111
+2020-09-11 12:07:52: server is run in port 8000
+2020-09-11 20:07:53: env =  production
+2020-09-11 20:07:53: 11111
+2020-09-11 20:07:53: server is run in port 8000
+2020-09-12 04:07:53: env =  production
+2020-09-12 04:07:53: 11111
+2020-09-12 04:07:53: server is run in port 8000
+2020-09-12 12:07:54: env =  production
+2020-09-12 12:07:54: 11111
+2020-09-12 12:07:54: server is run in port 8000
+2020-09-12 20:07:54: env =  production
+2020-09-12 20:07:54: 11111
+2020-09-12 20:07:54: server is run in port 8000
+2020-09-12 21:48:28: qq1090492603
+2020-09-12 21:48:32: 更新一篇博客, ID:34, 内容:[object Object]
+2020-09-12 21:48:32: blog undata OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+2020-09-13 05:48:34: env =  production
+2020-09-13 05:48:34: 11111
+2020-09-13 05:48:34: server is run in port 8000
+2020-09-13 13:48:34: env =  production
+2020-09-13 13:48:34: 11111
+2020-09-13 13:48:34: server is run in port 8000
+2020-09-13 21:48:35: env =  production
+2020-09-13 21:48:35: 11111
+2020-09-13 21:48:35: server is run in port 8000
+2020-09-14 06:51:02: env =  production
+2020-09-14 06:51:02: 11111
+2020-09-14 06:51:02: server is run in port 8000
+2020-09-14 14:51:03: env =  production
+2020-09-14 14:51:03: 11111
+2020-09-14 14:51:03: server is run in port 8000
+2020-09-14 22:51:03: env =  production
+2020-09-14 22:51:03: 11111
+2020-09-14 22:51:03: server is run in port 8000
+2020-09-15 06:51:04: env =  production
+2020-09-15 06:51:04: 11111
+2020-09-15 06:51:04: server is run in port 8000
+2020-09-15 14:51:04: env =  production
+2020-09-15 14:51:04: 11111
+2020-09-15 14:51:04: server is run in port 8000
+2020-09-15 22:51:05: env =  production
+2020-09-15 22:51:05: 11111
+2020-09-15 22:51:05: server is run in port 8000
+2020-09-16 10:40:44: env =  production
+2020-09-16 10:40:45: 11111
+2020-09-16 10:40:45: server is run in port 8000
+2020-09-16 18:40:45: env =  production
+2020-09-16 18:40:45: 11111
+2020-09-16 18:40:45: server is run in port 8000
+2020-09-17 02:40:45: env =  production
+2020-09-17 02:40:45: 11111
+2020-09-17 02:40:45: server is run in port 8000
+2020-09-17 10:40:46: env =  production
+2020-09-17 10:40:46: 11111
+2020-09-17 10:40:46: server is run in port 8000
+2020-09-17 18:40:46: env =  production
+2020-09-17 18:40:46: 11111
+2020-09-17 18:40:46: server is run in port 8000
+2020-09-17 22:40:06: qq1090492603
+2020-09-17 22:42:34:  * mysql err =  Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'where clause'
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getDtail (/home/wwwroot/ftptest/blog-express/controller/blog.js:24:12)
+    at /home/wwwroot/ftptest/blog-express/routes/blogs.js:41:18
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlMessage: "Unknown column 'undefined' in 'where clause'",
+  sqlState: '42S22',
+  index: 0,
+  sql: 'select * from blogs where 1=1 and id=undefined'
+}
+2020-09-18 07:03:03: env =  production
+2020-09-18 07:03:03: 11111
+2020-09-18 07:03:03: server is run in port 8000
+2020-09-18 12:23:32: qq1090492603
+2020-09-18 12:24:05: lisi
+2020-09-18 12:24:17: zhangsan
+2020-09-18 17:51:22: qq1090492603
+2020-09-19 01:51:43: env =  production
+2020-09-19 01:51:43: 11111
+2020-09-19 01:51:43: server is run in port 8000
+2020-09-19 09:51:44: env =  production
+2020-09-19 09:51:44: 11111
+2020-09-19 09:51:44: server is run in port 8000
+2020-09-19 10:57:26: qq1090492603
+2020-09-19 10:58:14: 更新一篇博客, ID:34, 内容:[object Object]
+2020-09-19 10:58:14: blog undata OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+2020-09-19 11:16:45:  * blog newData =  35
+2020-09-19 11:31:39: qq1090492603
+2020-09-19 11:32:06: 更新一篇博客, ID:34, 内容:[object Object]
+2020-09-19 11:32:06:  * mysql err =  Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x98\x81</...' for column 'content' at row 1
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at updateBlog (/home/wwwroot/ftptest/blog-express/controller/blog.js:61:16)
+    at /home/wwwroot/ftptest/blog-express/routes/blogs.js:68:18
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at module.exports (/home/wwwroot/ftptest/blog-express/middleware/loginCheck.js:5:9) {
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage: "Incorrect string value: '\\xF0\\x9F\\x98\\x81</...' for column 'content' at row 1",
+  sqlState: 'HY000',
+  index: 0,
+  sql: `update blogs set  title='hhhhh' , content='<p><font size=\\"5\\">asdasdasdas<span>😁</span></font></p><h3>asdasdasdasd</h3><p>asdasdas</p><p><img src=\\"http://qg6l68bhx.hn-bkt.clouddn.com/myface.jpg\\"><br></p>' , author='qq1090492603'  where id = 34; `
+}
+2020-09-19 11:32:07: 更新一篇博客, ID:34, 内容:[object Object]
+2020-09-19 11:32:07:  * mysql err =  Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x98\x81</...' for column 'content' at row 1
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at updateBlog (/home/wwwroot/ftptest/blog-express/controller/blog.js:61:16)
+    at /home/wwwroot/ftptest/blog-express/routes/blogs.js:68:18
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at module.exports (/home/wwwroot/ftptest/blog-express/middleware/loginCheck.js:5:9) {
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage: "Incorrect string value: '\\xF0\\x9F\\x98\\x81</...' for column 'content' at row 1",
+  sqlState: 'HY000',
+  index: 0,
+  sql: `update blogs set  title='hhhhh' , content='<p><font size=\\"5\\">asdasdasdas<span>😁</span></font></p><h3>asdasdasdasd</h3><p>asdasdas</p><p><img src=\\"http://qg6l68bhx.hn-bkt.clouddn.com/myface.jpg\\"><br></p>' , author='qq1090492603'  where id = 34; `
+}
+2020-09-19 11:32:08: 更新一篇博客, ID:34, 内容:[object Object]
+2020-09-19 11:32:08:  * mysql err =  Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x98\x81</...' for column 'content' at row 1
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at updateBlog (/home/wwwroot/ftptest/blog-express/controller/blog.js:61:16)
+    at /home/wwwroot/ftptest/blog-express/routes/blogs.js:68:18
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at module.exports (/home/wwwroot/ftptest/blog-express/middleware/loginCheck.js:5:9) {
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage: "Incorrect string value: '\\xF0\\x9F\\x98\\x81</...' for column 'content' at row 1",
+  sqlState: 'HY000',
+  index: 0,
+  sql: `update blogs set  title='hhhhh' , content='<p><font size=\\"5\\">asdasdasdas<span>😁</span></font></p><h3>asdasdasdasd</h3><p>asdasdas</p><p><img src=\\"http://qg6l68bhx.hn-bkt.clouddn.com/myface.jpg\\"><br></p>' , author='qq1090492603'  where id = 34; `
+}
+2020-09-19 11:32:08: 更新一篇博客, ID:34, 内容:[object Object]
+2020-09-19 11:32:08:  * mysql err =  Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x98\x81</...' for column 'content' at row 1
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at updateBlog (/home/wwwroot/ftptest/blog-express/controller/blog.js:61:16)
+    at /home/wwwroot/ftptest/blog-express/routes/blogs.js:68:18
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at module.exports (/home/wwwroot/ftptest/blog-express/middleware/loginCheck.js:5:9) {
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage: "Incorrect string value: '\\xF0\\x9F\\x98\\x81</...' for column 'content' at row 1",
+  sqlState: 'HY000',
+  index: 0,
+  sql: `update blogs set  title='hhhhh' , content='<p><font size=\\"5\\">asdasdasdas<span>😁</span></font></p><h3>asdasdasdasd</h3><p>asdasdas</p><p><img src=\\"http://qg6l68bhx.hn-bkt.clouddn.com/myface.jpg\\"><br></p>' , author='qq1090492603'  where id = 34; `
+}
+2020-09-19 11:32:08: 更新一篇博客, ID:34, 内容:[object Object]
+2020-09-19 11:32:08:  * mysql err =  Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x98\x81</...' for column 'content' at row 1
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at updateBlog (/home/wwwroot/ftptest/blog-express/controller/blog.js:61:16)
+    at /home/wwwroot/ftptest/blog-express/routes/blogs.js:68:18
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at module.exports (/home/wwwroot/ftptest/blog-express/middleware/loginCheck.js:5:9) {
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage: "Incorrect string value: '\\xF0\\x9F\\x98\\x81</...' for column 'content' at row 1",
+  sqlState: 'HY000',
+  index: 0,
+  sql: `update blogs set  title='hhhhh' , content='<p><font size=\\"5\\">asdasdasdas<span>😁</span></font></p><h3>asdasdasdasd</h3><p>asdasdas</p><p><img src=\\"http://qg6l68bhx.hn-bkt.clouddn.com/myface.jpg\\"><br></p>' , author='qq1090492603'  where id = 34; `
+}
+2020-09-19 11:32:08: 更新一篇博客, ID:34, 内容:[object Object]
+2020-09-19 11:32:08:  * mysql err =  Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x98\x81</...' for column 'content' at row 1
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at updateBlog (/home/wwwroot/ftptest/blog-express/controller/blog.js:61:16)
+    at /home/wwwroot/ftptest/blog-express/routes/blogs.js:68:18
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at module.exports (/home/wwwroot/ftptest/blog-express/middleware/loginCheck.js:5:9) {
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage: "Incorrect string value: '\\xF0\\x9F\\x98\\x81</...' for column 'content' at row 1",
+  sqlState: 'HY000',
+  index: 0,
+  sql: `update blogs set  title='hhhhh' , content='<p><font size=\\"5\\">asdasdasdas<span>😁</span></font></p><h3>asdasdasdasd</h3><p>asdasdas</p><p><img src=\\"http://qg6l68bhx.hn-bkt.clouddn.com/myface.jpg\\"><br></p>' , author='qq1090492603'  where id = 34; `
+}
+2020-09-19 11:32:09: 更新一篇博客, ID:34, 内容:[object Object]
+2020-09-19 11:32:09:  * mysql err =  Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x98\x81</...' for column 'content' at row 1
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at updateBlog (/home/wwwroot/ftptest/blog-express/controller/blog.js:61:16)
+    at /home/wwwroot/ftptest/blog-express/routes/blogs.js:68:18
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at module.exports (/home/wwwroot/ftptest/blog-express/middleware/loginCheck.js:5:9) {
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage: "Incorrect string value: '\\xF0\\x9F\\x98\\x81</...' for column 'content' at row 1",
+  sqlState: 'HY000',
+  index: 0,
+  sql: `update blogs set  title='hhhhh' , content='<p><font size=\\"5\\">asdasdasdas<span>😁</span></font></p><h3>asdasdasdasd</h3><p>asdasdas</p><p><img src=\\"http://qg6l68bhx.hn-bkt.clouddn.com/myface.jpg\\"><br></p>' , author='qq1090492603'  where id = 34; `
+}
+2020-09-19 11:32:09: 更新一篇博客, ID:34, 内容:[object Object]
+2020-09-19 11:32:09:  * mysql err =  Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x98\x81</...' for column 'content' at row 1
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at updateBlog (/home/wwwroot/ftptest/blog-express/controller/blog.js:61:16)
+    at /home/wwwroot/ftptest/blog-express/routes/blogs.js:68:18
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at module.exports (/home/wwwroot/ftptest/blog-express/middleware/loginCheck.js:5:9) {
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage: "Incorrect string value: '\\xF0\\x9F\\x98\\x81</...' for column 'content' at row 1",
+  sqlState: 'HY000',
+  index: 0,
+  sql: `update blogs set  title='hhhhh' , content='<p><font size=\\"5\\">asdasdasdas<span>😁</span></font></p><h3>asdasdasdasd</h3><p>asdasdas</p><p><img src=\\"http://qg6l68bhx.hn-bkt.clouddn.com/myface.jpg\\"><br></p>' , author='qq1090492603'  where id = 34; `
+}
+2020-09-19 11:32:10: 更新一篇博客, ID:34, 内容:[object Object]
+2020-09-19 11:32:10:  * mysql err =  Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x98\x81</...' for column 'content' at row 1
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at updateBlog (/home/wwwroot/ftptest/blog-express/controller/blog.js:61:16)
+    at /home/wwwroot/ftptest/blog-express/routes/blogs.js:68:18
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at module.exports (/home/wwwroot/ftptest/blog-express/middleware/loginCheck.js:5:9) {
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage: "Incorrect string value: '\\xF0\\x9F\\x98\\x81</...' for column 'content' at row 1",
+  sqlState: 'HY000',
+  index: 0,
+  sql: `update blogs set  title='hhhhh' , content='<p><font size=\\"5\\">asdasdasdas<span>😁</span></font></p><h3>asdasdasdasd</h3><p>asdasdas</p><p><img src=\\"http://qg6l68bhx.hn-bkt.clouddn.com/myface.jpg\\"><br></p>' , author='qq1090492603'  where id = 34; `
+}
+2020-09-19 11:32:10: 更新一篇博客, ID:34, 内容:[object Object]
+2020-09-19 11:32:10:  * mysql err =  Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x98\x81</...' for column 'content' at row 1
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at updateBlog (/home/wwwroot/ftptest/blog-express/controller/blog.js:61:16)
+    at /home/wwwroot/ftptest/blog-express/routes/blogs.js:68:18
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at module.exports (/home/wwwroot/ftptest/blog-express/middleware/loginCheck.js:5:9) {
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage: "Incorrect string value: '\\xF0\\x9F\\x98\\x81</...' for column 'content' at row 1",
+  sqlState: 'HY000',
+  index: 0,
+  sql: `update blogs set  title='hhhhh' , content='<p><font size=\\"5\\">asdasdasdas<span>😁</span></font></p><h3>asdasdasdasd</h3><p>asdasdas</p><p><img src=\\"http://qg6l68bhx.hn-bkt.clouddn.com/myface.jpg\\"><br></p>' , author='qq1090492603'  where id = 34; `
+}
+2020-09-19 11:32:11: 更新一篇博客, ID:34, 内容:[object Object]
+2020-09-19 11:32:11:  * mysql err =  Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x98\x81</...' for column 'content' at row 1
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at updateBlog (/home/wwwroot/ftptest/blog-express/controller/blog.js:61:16)
+    at /home/wwwroot/ftptest/blog-express/routes/blogs.js:68:18
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at module.exports (/home/wwwroot/ftptest/blog-express/middleware/loginCheck.js:5:9) {
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage: "Incorrect string value: '\\xF0\\x9F\\x98\\x81</...' for column 'content' at row 1",
+  sqlState: 'HY000',
+  index: 0,
+  sql: `update blogs set  title='hhhhh' , content='<p><font size=\\"5\\">asdasdasdas<span>😁</span></font></p><h3>asdasdasdasd</h3><p>asdasdas</p><p><img src=\\"http://qg6l68bhx.hn-bkt.clouddn.com/myface.jpg\\"><br></p>' , author='qq1090492603'  where id = 34; `
+}
+2020-09-19 11:32:11: 更新一篇博客, ID:34, 内容:[object Object]
+2020-09-19 11:32:11:  * mysql err =  Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xF0\x9F\x98\x81</...' for column 'content' at row 1
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at updateBlog (/home/wwwroot/ftptest/blog-express/controller/blog.js:61:16)
+    at /home/wwwroot/ftptest/blog-express/routes/blogs.js:68:18
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at module.exports (/home/wwwroot/ftptest/blog-express/middleware/loginCheck.js:5:9) {
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage: "Incorrect string value: '\\xF0\\x9F\\x98\\x81</...' for column 'content' at row 1",
+  sqlState: 'HY000',
+  index: 0,
+  sql: `update blogs set  title='hhhhh' , content='<p><font size=\\"5\\">asdasdasdas<span>😁</span></font></p><h3>asdasdasdasd</h3><p>asdasdas</p><p><img src=\\"http://qg6l68bhx.hn-bkt.clouddn.com/myface.jpg\\"><br></p>' , author='qq1090492603'  where id = 34; `
+}
+2020-09-19 11:33:58: qq1090492603
+2020-09-19 11:34:16: 更新一篇博客, ID:34, 内容:[object Object]
+2020-09-19 11:34:16: blog undata OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+2020-09-19 20:16:12: env =  production
+2020-09-19 20:16:13: 11111
+2020-09-19 20:16:13: server is run in port 8000
+2020-09-20 04:16:13: env =  production
+2020-09-20 04:16:13: 11111
+2020-09-20 04:16:13: server is run in port 8000
+2020-09-20 12:10:55: env =  production
+2020-09-20 12:10:55: server is run in port 8000
+2020-09-20 12:11:15: qq1090492603
+2020-09-20 12:11:24: 删除一篇博客, ID:26
+2020-09-20 12:11:29: 删除一篇博客, ID:25
+2020-09-20 20:11:35: env =  production
+2020-09-20 20:11:35: server is run in port 8000
+2020-09-20 22:05:42: 6 1
+2020-09-20 22:05:45: 6 0
+2020-09-20 22:05:45:  * mysql err =  Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-6,6' at line 1
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-6,6' at line 1",
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit -6,6 '
+}
+2020-09-20 22:05:57: 6 1
+2020-09-20 22:06:03: 6 2
+2020-09-20 22:06:05: 6 3
+2020-09-20 22:14:29: 6 NaN
+2020-09-20 22:14:29:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:16:27: 6 NaN
+2020-09-20 22:16:27:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:16:28: 6 NaN
+2020-09-20 22:16:28:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:16:28: 6 NaN
+2020-09-20 22:16:28:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:16:28: 6 NaN
+2020-09-20 22:16:28:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:16:31: 6 NaN
+2020-09-20 22:16:31:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:16:31: 6 NaN
+2020-09-20 22:16:31:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:16:31: 6 NaN
+2020-09-20 22:16:31:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:16:31: 6 NaN
+2020-09-20 22:16:31:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:16:32: 6 NaN
+2020-09-20 22:16:32:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:16:32: 6 NaN
+2020-09-20 22:16:32:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:16:32: 6 NaN
+2020-09-20 22:16:32:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:16:32: 6 NaN
+2020-09-20 22:16:32:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:16:32: 6 NaN
+2020-09-20 22:16:32:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:16:32: 6 NaN
+2020-09-20 22:16:32:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:16:33: 6 NaN
+2020-09-20 22:16:33:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:16:33: 6 NaN
+2020-09-20 22:16:33:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:19:21: 6 NaN
+2020-09-20 22:19:21:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:19:21: 6 NaN
+2020-09-20 22:19:21:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:19:21: 6 NaN
+2020-09-20 22:19:21:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:19:21: 6 NaN
+2020-09-20 22:19:21:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:19:22: 6 NaN
+2020-09-20 22:19:22:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:19:22: 6 NaN
+2020-09-20 22:19:22:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:19:22: 6 NaN
+2020-09-20 22:19:22:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:19:22: 6 NaN
+2020-09-20 22:19:22:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:19:22: 6 NaN
+2020-09-20 22:19:22:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:19:22: 6 NaN
+2020-09-20 22:19:22:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:19:22: 6 NaN
+2020-09-20 22:19:22:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:19:23: 6 NaN
+2020-09-20 22:19:23:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:19:23: 6 NaN
+2020-09-20 22:19:23:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:19:23: 6 NaN
+2020-09-20 22:19:23:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:19:23: 6 NaN
+2020-09-20 22:19:23:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:19:23: 6 NaN
+2020-09-20 22:19:23:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:19:24: 6 NaN
+2020-09-20 22:19:24:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:19:24: 6 NaN
+2020-09-20 22:19:24:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:19:24: 6 NaN
+2020-09-20 22:19:24:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:19:24: 6 NaN
+2020-09-20 22:19:24:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:20:24: 6 NaN
+2020-09-20 22:20:24:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,6 '
+}
+2020-09-20 22:20:35: 6 1
+2020-09-20 22:21:13: 6 1
+2020-09-20 22:21:25: 6 1
+2020-09-20 22:23:40: 6 1
+2020-09-20 22:23:53: 6 1
+2020-09-20 22:23:53: 6 1
+2020-09-20 22:23:54: 6 1
+2020-09-20 22:23:54: 6 1
+2020-09-20 22:23:54: 6 1
+2020-09-20 22:23:55: 6 1
+2020-09-20 22:23:55: 6 1
+2020-09-20 22:23:58: 6 1
+2020-09-20 22:23:58: 6 1
+2020-09-20 22:23:58: 6 1
+2020-09-20 22:25:00: 6 1
+2020-09-20 22:25:00: 6 1
+2020-09-20 22:25:36: 6 1
+2020-09-20 22:25:37: 6 1
+2020-09-20 22:25:37: 6 1
+2020-09-20 22:26:22: 6 1
+2020-09-20 22:26:35: 6 1
+2020-09-20 22:26:38: 6 1
+2020-09-20 22:26:38: 6 1
+2020-09-20 22:26:39: 6 1
+2020-09-20 22:26:39: 6 1
+2020-09-20 22:26:58: 6 1
+2020-09-20 22:26:58: 6 1
+2020-09-20 22:26:59: 6 1
+2020-09-20 22:26:59: 6 1
+2020-09-20 22:26:59: 6 1
+2020-09-20 22:26:59: 6 1
+2020-09-20 22:26:59: 6 1
+2020-09-20 22:27:06: 6 1
+2020-09-20 22:28:59: 6 1
+2020-09-20 22:29:00: 6 1
+2020-09-20 22:29:01: 6 1
+2020-09-20 22:29:01: 6 1
+2020-09-20 22:29:02: 6 1
+2020-09-20 22:29:02: 6 1
+2020-09-20 22:29:02: 6 1
+2020-09-20 22:29:02: 6 1
+2020-09-20 22:29:02: 6 1
+2020-09-20 22:29:02: 6 1
+2020-09-20 22:29:02: 6 1
+2020-09-20 22:29:03: 6 1
+2020-09-20 22:29:08: 6 1
+2020-09-20 22:31:39: 6 1
+2020-09-20 22:32:24: 6 1
+2020-09-20 22:34:39: 6 1
+2020-09-20 22:34:50: 6 1
+2020-09-20 22:34:50: 6 1
+2020-09-20 22:35:19: 6 1
+2020-09-20 22:35:19: 6 1
+2020-09-20 22:35:20: 6 1
+2020-09-20 22:35:36: 6 1
+2020-09-20 22:35:37: 6 1
+2020-09-20 22:35:37: 6 1
+2020-09-20 22:35:37: 6 1
+2020-09-20 23:32:15: 6 1
+2020-09-20 23:52:45: 6 1
+2020-09-20 23:53:04: 6 1
+2020-09-21 08:30:50: 6 1
+2020-09-21 16:31:09: env =  production
+2020-09-21 16:31:09: server is run in port 8000
+2020-09-21 16:46:49: 6 1
+2020-09-21 17:30:42: 6 1
+2020-09-21 17:30:43: 6 1
+2020-09-21 17:31:23: 6 1
+2020-09-21 17:31:24: 6 1
+2020-09-21 17:37:24: 6 1
+2020-09-21 17:37:26: 6 1
+2020-09-21 17:37:26: 6 1
+2020-09-21 17:37:27: 6 1
+2020-09-21 17:37:59: 6 1
+2020-09-21 17:38:30: 6 1
+2020-09-21 17:38:46: 6 1
+2020-09-21 18:35:00: 6 1
+2020-09-21 18:35:02: 6 1
+2020-09-21 18:35:03: 6 1
+2020-09-21 18:35:04: 6 1
+2020-09-21 18:35:06: 6 1
+2020-09-21 18:35:06: 6 1
+2020-09-21 18:35:06: 6 1
+2020-09-21 18:36:23: 6 1
+2020-09-21 18:36:25: 6 1
+2020-09-21 18:36:25: 6 1
+2020-09-21 18:36:26: 6 1
+2020-09-21 18:36:27: 6 1
+2020-09-21 20:03:45: 6 1
+2020-09-22 04:03:46: env =  production
+2020-09-22 04:03:46: server is run in port 8000
+2020-09-22 12:03:46: env =  production
+2020-09-22 12:03:46: server is run in port 8000
+2020-09-22 17:13:01: 6 1
+2020-09-22 17:13:08: 6 1
+2020-09-23 01:13:36: env =  production
+2020-09-23 01:13:36: server is run in port 8000
+2020-09-23 01:27:22: 6 1
+2020-09-23 01:38:08: 6 1
+2020-09-23 04:33:15: 6 1
+2020-09-23 12:33:16: env =  production
+2020-09-23 12:33:16: server is run in port 8000
+2020-09-23 20:33:16: env =  production
+2020-09-23 20:33:16: server is run in port 8000
+2020-09-24 04:33:17: env =  production
+2020-09-24 04:33:17: server is run in port 8000
+2020-09-24 12:33:17: env =  production
+2020-09-24 12:33:17: server is run in port 8000
+2020-09-24 19:43:31: 6 1
+2020-09-24 19:43:53: 6 1
+2020-09-24 19:43:53: 6 1
+2020-09-24 19:43:54: 6 1
+2020-09-24 19:43:55: 6 1
+2020-09-24 19:43:55: 6 1
+2020-09-25 03:43:55: env =  production
+2020-09-25 03:43:55: server is run in port 8000
+2020-09-25 11:43:56: env =  production
+2020-09-25 11:43:56: server is run in port 8000
+2020-09-25 19:43:56: env =  production
+2020-09-25 19:43:56: server is run in port 8000
+2020-09-26 03:43:57: env =  production
+2020-09-26 03:43:57: server is run in port 8000
+2020-09-26 09:33:26: 6 1
+2020-09-26 09:33:59: 6 1
+2020-09-26 09:42:10: 6 1
+2020-09-26 15:58:29: 6 1
+2020-09-26 15:58:52: qq1090492603
+2020-09-26 16:15:35:  * blog newData =  38
+2020-09-26 16:16:26: 6 1
+2020-09-26 18:10:29: 6 1
+2020-09-27 02:10:32: env =  production
+2020-09-27 02:10:33: server is run in port 8000
+2020-09-27 10:10:33: env =  production
+2020-09-27 10:10:33: server is run in port 8000
+2020-09-27 18:10:33: env =  production
+2020-09-27 18:10:34: server is run in port 8000
+2020-09-27 18:48:15: 6 1
+2020-09-27 18:48:50: 6 1
+2020-09-27 18:48:53: 6 1
+2020-09-28 02:48:53: env =  production
+2020-09-28 02:48:54: server is run in port 8000
+2020-09-28 10:48:54: env =  production
+2020-09-28 10:48:54: server is run in port 8000
+2020-09-28 18:48:54: env =  production
+2020-09-28 18:48:54: server is run in port 8000
+2020-09-28 22:17:00: 6 1
+2020-09-28 22:17:01: 6 1
+2020-09-28 23:14:22: 6 1
+2020-09-28 23:14:28: 6 1
+2020-09-28 23:14:40: qq1090492603
+2020-09-28 23:22:54:  * blog newData =  39
+2020-09-28 23:24:11: 6 1
+2020-09-28 23:26:04: 6 1
+2020-09-28 23:32:32: 6 1
+2020-09-28 23:32:33: 6 1
+2020-09-28 23:32:33: 6 1
+2020-09-28 23:32:33: 6 1
+2020-09-28 23:32:33: 6 1
+2020-09-28 23:32:34: 6 1
+2020-09-28 23:32:34: 6 1
+2020-09-28 23:49:53: 6 1
+2020-09-28 23:50:07: 6 1
+2020-09-28 23:50:11: 6 1
+2020-09-28 23:50:39: 6 1
+2020-09-29 04:49:50: 6 1
+2020-09-29 04:49:52: 6 1
+2020-09-29 08:56:23: 6 1
+2020-09-29 08:56:38: qq1090492603
+2020-09-29 09:04:47:  * blog newData =  40
+2020-09-29 09:05:08: 6 1
+2020-09-29 09:05:46: 6 2
+2020-09-29 09:06:38: 更新一篇博客, ID:40, 内容:[object Object]
+2020-09-29 09:06:38: blog undata OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+2020-09-29 09:09:29:  * blog newData =  41
+2020-09-29 09:38:19: 6 1
+2020-09-29 09:38:50: 6 1
+2020-09-29 09:38:51: 6 1
+2020-09-29 09:38:55: 6 1
+2020-09-29 17:38:56: env =  production
+2020-09-29 17:38:56: server is run in port 8000
+2020-09-30 00:42:46: 6 1
+2020-09-30 00:42:54: 6 1
+2020-09-30 00:44:01: 6 1
+2020-09-30 00:44:14: 6 1
+2020-09-30 00:44:16: 6 1
+2020-09-30 05:33:07: 6 1
+2020-09-30 05:33:08: 6 1
+2020-09-30 19:03:06: 6 1
+2020-10-01 03:04:28: env =  production
+2020-10-01 03:04:29: server is run in port 8000
+2020-10-01 10:10:58: 6 1
+2020-10-01 18:10:59: env =  production
+2020-10-01 18:10:59: server is run in port 8000
+2020-10-01 20:58:22: 6 1
+2020-10-01 23:48:34: NaN NaN
+2020-10-01 23:48:34:  * mysql err =  Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Protocol._enqueue (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/wwwroot/ftptest/blog-express/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/wwwroot/ftptest/blog-express/db/mysql.js:16:13
+    at new Promise (<anonymous>)
+    at exec (/home/wwwroot/ftptest/blog-express/db/mysql.js:14:21)
+    at getIndex (/home/wwwroot/ftptest/blog-express/controller/blog.js:20:12)
+    at /home/wwwroot/ftptest/blog-express/routes/index.js:22:19
+    at Layer.handle [as handle_request] (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/wwwroot/ftptest/blog-express/node_modules/express/lib/router/route.js:112:3) {
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,title,preview,createtime,author from blogs where state = 0  order by createtime desc limit NaN,NaN '
+}
+2020-10-02 07:48:34: env =  production
+2020-10-02 07:48:34: server is run in port 8000
+2020-10-02 10:19:18: env =  production
+2020-10-02 10:19:18: env =  production
+2020-10-02 10:19:18: env =  production
+2020-10-02 10:19:18: env =  production
+2020-10-02 10:19:19: env =  production
+2020-10-02 10:19:19: env =  production
+2020-10-02 10:19:19: env =  production
+2020-10-02 10:19:20: env =  production
+2020-10-02 10:19:20: env =  production
+2020-10-02 10:19:20: env =  production
+2020-10-02 10:19:21: env =  production
+2020-10-02 10:19:21: env =  production
+2020-10-02 10:19:21: env =  production
+2020-10-02 10:19:22: env =  production
+2020-10-02 10:19:22: env =  production
+2020-10-02 10:19:22: env =  production
+2020-10-02 10:19:33: env =  production
+2020-10-02 10:19:33: env =  production
+2020-10-02 10:19:33: env =  production
+2020-10-02 10:19:34: env =  production
+2020-10-02 10:19:34: env =  production
+2020-10-02 10:19:34: env =  production
+2020-10-02 10:19:35: env =  production
+2020-10-02 10:19:35: env =  production
+2020-10-02 10:19:35: env =  production
+2020-10-02 10:19:36: env =  production
+2020-10-02 10:19:36: env =  production
+2020-10-02 10:19:36: env =  production
+2020-10-02 10:19:37: env =  production
+2020-10-02 10:19:37: env =  production
+2020-10-02 10:19:37: env =  production
+2020-10-02 10:19:38: env =  production
+2020-10-02 10:22:01: env =  production
+2020-10-02 10:22:02: env =  production
+2020-10-02 10:22:02: env =  production
+2020-10-02 10:22:02: env =  production
+2020-10-02 10:22:03: env =  production
+2020-10-02 10:22:03: env =  production
+2020-10-02 10:22:03: env =  production
+2020-10-02 10:22:04: env =  production
+2020-10-02 10:22:04: env =  production
+2020-10-02 10:22:05: env =  production
+2020-10-02 10:22:05: env =  production
+2020-10-02 10:22:06: env =  production
+2020-10-02 10:22:06: env =  production
+2020-10-02 10:22:06: env =  production
+2020-10-02 10:22:07: env =  production
+2020-10-02 10:22:07: env =  production
+2020-10-02 10:22:08: env =  production
+2020-10-02 10:22:08: env =  production
+2020-10-02 10:22:08: env =  production
+2020-10-02 10:22:09: env =  production
+2020-10-02 10:25:19: env =  production
+2020-10-02 10:25:20: env =  production
+2020-10-02 10:25:20: env =  production
+2020-10-02 10:25:20: env =  production
+2020-10-02 10:25:21: env =  production
+2020-10-02 10:25:21: env =  production
+2020-10-02 10:25:22: env =  production
+2020-10-02 10:25:22: env =  production
+2020-10-02 10:25:23: env =  production
+2020-10-02 10:25:23: env =  production
+2020-10-02 10:25:23: env =  production
+2020-10-02 10:25:24: env =  production
+2020-10-02 10:25:24: env =  production
+2020-10-02 10:25:25: env =  production
+2020-10-02 10:25:25: env =  production
+2020-10-02 10:25:47: env =  production
+2020-10-02 10:25:48: server is run in port 8000
+2020-10-02 10:36:26: env =  production
+2020-10-02 10:36:26: server is run in port 8000
+2020-10-02 10:36:28: env =  production
+2020-10-02 10:36:29: env =  production
+2020-10-02 10:36:29: env =  production
+2020-10-02 10:36:29: env =  production
+2020-10-02 10:36:30: env =  production
+2020-10-02 10:36:30: env =  production
+2020-10-02 10:36:30: env =  production
+2020-10-02 10:36:31: env =  production
+2020-10-02 10:36:31: env =  production
+2020-10-02 10:36:31: env =  production
+2020-10-02 10:36:32: server is run in port 8000
+2020-10-02 11:16:37: env =  production
+2020-10-02 11:16:37: env =  production
+2020-10-02 11:16:37: env =  production
+2020-10-02 11:16:38: env =  production
+2020-10-02 11:16:38: env =  production
+2020-10-02 11:16:38: env =  production
+2020-10-02 11:16:38: env =  production
+2020-10-02 11:16:39: env =  production
+2020-10-02 11:16:39: env =  production
+2020-10-02 11:16:39: env =  production
+2020-10-02 11:16:40: env =  production
+2020-10-02 11:16:40: env =  production
+2020-10-02 11:16:40: env =  production
+2020-10-02 11:16:41: env =  production
+2020-10-02 11:16:41: env =  production
+2020-10-02 11:16:41: env =  production
+2020-10-02 11:16:42: env =  production
+2020-10-02 11:16:42: server is run in port 8000
+2020-10-02 11:18:15: env =  production
+2020-10-02 11:18:16: env =  production
+2020-10-02 11:18:16: env =  production
+2020-10-02 11:18:16: env =  production
+2020-10-02 11:18:17: env =  production
+2020-10-02 11:18:17: env =  production
+2020-10-02 11:18:17: env =  production
+2020-10-02 11:18:18: env =  production
+2020-10-02 11:18:18: env =  production
+2020-10-02 11:18:18: env =  production
+2020-10-02 11:18:18: env =  production
+2020-10-02 11:18:19: env =  production
+2020-10-02 11:18:19: env =  production
+2020-10-02 11:18:19: server is run in port 8000
